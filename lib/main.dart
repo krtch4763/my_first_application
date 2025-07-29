@@ -50,7 +50,7 @@ class MyHomePage extends StatelessWidget {
           ),
           child: Center(
             child: Image.asset(
-              'assets/images/bird-8788491_1280.jpg',
+              'assets/images/bird.jpg',
               width: 150,
               // height: 50,
               fit: BoxFit.cover,
